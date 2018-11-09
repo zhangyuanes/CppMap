@@ -4,7 +4,7 @@ cpp知识图谱
 ![C++](https://raw.githubusercontent.com/itisyang/CppMap/master/C%2B%2B.png)
 
 
-## [基础](https://github.com/itisyang/CppMap/blob/master/Basics.md)  
+## 基础
 #### 变量和基本类型
 
 #### 字符串、向量和数组
